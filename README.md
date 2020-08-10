@@ -1,6 +1,8 @@
-### SEDANG MENGGAPAI MIMPI✨
-![Bit.Trip Runner](https://github.com/Abdullahsams/Abdullahsams/blob/master/4534.gif) 
+# SEDANG MENGGAPAI MIMPI✨
 
+<div align="center">
+  <img width="100%" height="100%" src="https://github.com/Abdullahsams/Abdullahsams/blob/master/4534.gif">
+</div>
 
 
 <!--
