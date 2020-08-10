@@ -1,4 +1,7 @@
-### Hi there 👋
+### SEDANG MENGGAPAI MIMPI✨
+![Bit.Trip Runner](https://github.com/Abdullahsams/Abdullahsams/blob/master/4534.gif) 
+
+
 
 <!--
 **Abdullahsams/Abdullahsams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
