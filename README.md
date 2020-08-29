@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img width="100%" height="100%" src="https://github.com/Abdullahsams/Abdullahsams/blob/master/1517887314_1502946397_tumblr_oorm14Ceva1rbd7lgo1_400%20(1).gif">
+  <img width="100%" height="100%" src="1517887314_1502946397_tumblr_oorm14Ceva1rbd7lgo1_400%20(1).gif">
 </div>
 <h2 align="right">Beep-</h2>
 
